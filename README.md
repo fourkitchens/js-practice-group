@@ -5,10 +5,14 @@ JavaScript practice group. Keep it :100:
 
 * [Practice Group Notes (Google Doc)](https://docs.google.com/document/d/1y_kerVcBszdzAzbmO4GUIgpQphPKV66V4yywOKbFz6Y/edit)
 
-## Goals
+## 2017 Goals
 
 1. Distribute knowledge of modern JavaScript throughout the team.
 2. Provide marketing with materials to sell JavaScript services.
+3. Release 25 node modules into the public space
+
+### Node module releases
+1. https://github.com/thebruce/molotov
 
 ## Reading Lists
 
