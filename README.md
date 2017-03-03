@@ -13,6 +13,7 @@ JavaScript practice group. Keep it :100:
 
 ### Node module releases
 1. https://github.com/thebruce/molotov
+2. https://github.com/elliotttf/semantic-release-conventional-commits
 
 ## Reading Lists
 
