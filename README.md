@@ -12,8 +12,9 @@ JavaScript practice group. Keep it :100:
 3. Release 25 node modules into the public space
 
 ### Node module releases
-1. https://github.com/thebruce/molotov
-2. https://github.com/elliotttf/semantic-release-conventional-commits
+1. https://github.com/thebruce/molotov (David)
+2. https://github.com/elliotttf/semantic-release-conventional-commits (Elliott)
+3. https://github.com/chasingmaxwell/release-sns (Peter)
 
 ## Reading Lists
 
