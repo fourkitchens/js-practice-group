@@ -16,6 +16,7 @@ JavaScript practice group. Keep it :100:
 2. https://github.com/elliotttf/semantic-release-conventional-commits (Elliott)
 3. https://github.com/chasingmaxwell/release-sns (Peter)
 4. https://www.npmjs.com/package/get-combinations (Flip)
+5. https://github.com/chasingmaxwell/release-multiple-note-generators (Peter)
 
 ## Reading Lists
 
