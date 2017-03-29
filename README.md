@@ -20,9 +20,9 @@ JavaScript practice group. Keep it :100:
 5. https://github.com/chasingmaxwell/release-multiple-note-generators (Peter)
 
 ## Luke's Drupal + Waterwheel + React Training
-[React TodoMVC app](https://github.com/infiniteluke/todomvc-react-waterwheel)
-[Drupal Backend for the TodoMVC app](https://github.com/fourkitchens/waterwheel-drupal)
-[Drupal + Waterwheel + React training repo](https://github.com/fourkitchens/waterwheel-training)
+- [React TodoMVC app](https://github.com/infiniteluke/todomvc-react-waterwheel)
+- [Drupal Backend for the TodoMVC app](https://github.com/fourkitchens/waterwheel-drupal)
+- [Drupal + Waterwheel + React training repo](https://github.com/fourkitchens/waterwheel-training)
 
 ## Reading Lists
 
