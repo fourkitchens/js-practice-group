@@ -19,6 +19,11 @@ JavaScript practice group. Keep it :100:
 4. https://www.npmjs.com/package/get-combinations (Flip)
 5. https://github.com/chasingmaxwell/release-multiple-note-generators (Peter)
 
+## Luke's Drupal + Waterwheel + React Training
+[React TodoMVC app](https://github.com/infiniteluke/todomvc-react-waterwheel)
+[Drupal Backend for the TodoMVC app](https://github.com/fourkitchens/waterwheel-drupal)
+[Drupal + Waterwheel + React training repo](https://github.com/fourkitchens/waterwheel-training)
+
 ## Reading Lists
 
 ### Flip's Guide to JS
