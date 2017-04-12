@@ -4,7 +4,7 @@ JavaScript practice group. Keep it :100:
 ## Resources
 
 * [Practice Group Notes (Google Doc)](https://docs.google.com/document/d/1y_kerVcBszdzAzbmO4GUIgpQphPKV66V4yywOKbFz6Y/edit)
-* [Four Kitchens NPM Org](https://www.npmjs.com/org/fourkitchens)
+* [Four Kitchens NPM Org](https://www.npmjs.com/org/fourkitchens) Currently an empty holding area, waiting for company-supported packages, i.e. like Aquifer, Emulsify. 
 
 ## 2017 Goals
 
