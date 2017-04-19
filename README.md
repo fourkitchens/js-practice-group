@@ -14,11 +14,12 @@ JavaScript practice group. Keep it :100:
 3. Release 25 node modules into the public space
 
 ### Node module releases
-1. https://github.com/thebruce/molotov (David)
-2. https://github.com/elliotttf/semantic-release-conventional-commits (Elliott)
-3. https://github.com/chasingmaxwell/release-sns (Peter)
+1. https://www.npmjs.com/package/molotov (David)
+2. https://www.npmjs.com/package/semantic-release-conventional-commits (Elliott)
+3. https://www.npmjs.com/package/release-sns (Peter)
 4. https://www.npmjs.com/package/get-combinations (Flip)
-5. https://github.com/chasingmaxwell/release-multiple-note-generators (Peter)
+5. https://www.npmjs.com/package/release-multiple-note-generators (Peter)
+6. https://www.npmjs.com/package/semverist (David)
 
 ## Luke's Drupal + Waterwheel + React Training
 - [React TodoMVC app](https://github.com/infiniteluke/todomvc-react-waterwheel)
