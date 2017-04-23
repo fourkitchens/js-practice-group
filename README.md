@@ -21,6 +21,7 @@ JavaScript practice group. Keep it :100:
 5. https://www.npmjs.com/package/release-multiple-note-generators (Peter)
 6. https://www.npmjs.com/package/semverist (David)
 7. https://www.npmjs.com/package/exciter (Peter & Luke)
+7. https://www.npmjs.com/package/buckaroo (Flip)
 
 ## Luke's Drupal + Waterwheel + React Training
 - [React TodoMVC app](https://github.com/infiniteluke/todomvc-react-waterwheel)
