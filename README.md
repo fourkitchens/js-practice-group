@@ -22,6 +22,7 @@ JavaScript practice group. Keep it :100:
 6. https://www.npmjs.com/package/semverist (David)
 7. https://www.npmjs.com/package/exciter (Peter & Luke)
 7. https://www.npmjs.com/package/buckaroo (Flip)
+8. https://www.npmjs.com/package/circular-shift (Flip)
 
 ## Luke's Drupal + Waterwheel + React Training
 - [React TodoMVC app](https://github.com/infiniteluke/todomvc-react-waterwheel)
