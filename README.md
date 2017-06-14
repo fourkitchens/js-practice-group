@@ -23,6 +23,11 @@ JavaScript practice group. Keep it :100:
 7. https://www.npmjs.com/package/exciter (Peter & Luke)
 7. https://www.npmjs.com/package/buckaroo (Flip)
 8. https://www.npmjs.com/package/circular-shift (Flip)
+9. https://www.npmjs.com/package/emdaer-cli (Flip)
+10. https://www.npmjs.com/package/emdaer-core (Flip)
+11. https://www.npmjs.com/package/emdaer-plugin-heading (Flip)
+12. https://www.npmjs.com/package/emdaer-plugin-linebreak (Flip)
+13. https://www.npmjs.com/package/emdaer-transform-smartypants (Flip)
 
 ## Luke's Drupal + Waterwheel + React Training
 - [React TodoMVC app](https://github.com/infiniteluke/todomvc-react-waterwheel)
