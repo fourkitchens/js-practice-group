@@ -29,6 +29,9 @@ JavaScript practice group. Keep it :100:
 12. https://www.npmjs.com/package/emdaer-plugin-linebreak (Flip)
 13. https://www.npmjs.com/package/emdaer-transform-smartypants (Flip)
 14. https://www.npmjs.com/package/entity-schema (Peter)
+15. https://www.npmjs.com/package/entity-schema-dynamodb (Peter)
+16. https://www.npmjs.com/package/graphql-anyscalar (Peter)
+17. https://www.npmjs.com/package/graphql-leveler (Peter)
 
 ## Luke's Drupal + Waterwheel + React Training
 - [React TodoMVC app](https://github.com/infiniteluke/todomvc-react-waterwheel)
