@@ -32,6 +32,7 @@ JavaScript practice group. Keep it :100:
 15. https://www.npmjs.com/package/entity-schema-dynamodb (Peter)
 16. https://www.npmjs.com/package/graphql-anyscalar (Peter)
 17. https://www.npmjs.com/package/graphql-leveler (Peter)
+18. https://www.npmjs.com/package/dub-step (Luke)
 
 ## Luke's Drupal + Waterwheel + React Training
 - [React TodoMVC app](https://github.com/infiniteluke/todomvc-react-waterwheel)
