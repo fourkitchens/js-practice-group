@@ -34,6 +34,8 @@ JavaScript practice group. Keep it :100:
 17. https://www.npmjs.com/package/graphql-leveler (Peter)
 18. https://www.npmjs.com/package/dub-step (Luke)
 19. https://www.npmjs.com/org/emdaer (**team emdaer** [Flip, Luke, Elliott, David, Peter, Jon], total packages 23)
+20. https://www.npmjs.com/package/travis-spawn-once (Luke)
+
 
 ## Luke's Drupal + Waterwheel + React Training
 - [React TodoMVC app](https://github.com/infiniteluke/todomvc-react-waterwheel)
