@@ -32,6 +32,7 @@ JavaScript practice group. Keep it :100:
 15. https://www.npmjs.com/org/emdaer (**team emdaer** [Flip, Luke, Elliott, David, Peter, Jon], total packages 23)
 37. https://www.npmjs.com/package/travis-spawn-once (Luke)
 38. https://www.npmjs.com/package/lambda-patterns (Peter)
+39. https://github.com/infiniteluke/next-static (Luke)
 
 
 ## Luke's Drupal + Waterwheel + React Training
