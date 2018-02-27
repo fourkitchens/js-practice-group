@@ -33,6 +33,7 @@ JavaScript practice group. Keep it :100:
 37. https://www.npmjs.com/package/travis-spawn-once (Luke)
 38. https://www.npmjs.com/package/lambda-patterns (Peter)
 39. https://github.com/infiniteluke/next-static (Luke)
+40. https://www.npmjs.com/package/percentage-incrementor (Peter)
 
 
 ## Luke's Drupal + Waterwheel + React Training
