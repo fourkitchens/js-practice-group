@@ -34,6 +34,8 @@ JavaScript practice group. Keep it :100:
 38. https://www.npmjs.com/package/lambda-patterns (Peter)
 39. https://github.com/infiniteluke/next-static (Luke)
 40. https://www.npmjs.com/package/percentage-incrementor (Peter)
+41. https://www.npmjs.com/package/gitsetgo (Peter)
+42. https://www.npmjs.com/package/middytohof (Peter)
 
 
 ## Luke's Drupal + Waterwheel + React Training
