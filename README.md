@@ -36,6 +36,8 @@ JavaScript practice group. Keep it :100:
 40. https://www.npmjs.com/package/percentage-incrementor (Peter)
 41. https://www.npmjs.com/package/gitsetgo (Peter)
 42. https://www.npmjs.com/package/middytohof (Peter)
+43. https://www.npmjs.com/package/@schemepunk/scheme-punk
+44. https://www.npmjs.com/package/@schemepunk/schema-got-swagger
 
 
 ## Luke's Drupal + Waterwheel + React Training
